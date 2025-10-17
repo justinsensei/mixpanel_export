@@ -47,6 +47,7 @@ Thumbs.db
 *.jsonl
 *.csv
 *.gz
+exports/
 
 # Jupyter Notebook
 .ipynb_checkpoints
